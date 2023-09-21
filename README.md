@@ -38,4 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # Inspirations
 https://github.com/jacoblundeen/jacoblundeen.github.io
+
 https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd
