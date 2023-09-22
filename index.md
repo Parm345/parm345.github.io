@@ -4,23 +4,30 @@ Hey there! My name is Parm and I'm working towards earning a Mechanical Engineer
 
 ## Education
 
-### [**Bachelor of Applied Science (BASc), Mechanical Engineering**](https://www.mie.utoronto.ca/programs/undergraduate/mechanical-engineering/) | University of Toronto
-
-#### 2021 - Present
+### [**BASc. in Mechanical Engineering**](https://www.mie.utoronto.ca/programs/undergraduate/mechanical-engineering/) | University of Toronto | 2021 - Present
 
 I'm currently in my third year and expecting to graduate in 2026 because of the PEY program. I have chosen the Bioengineering and Mechatronics streams and I plan to pursue minors in Bioengineering and Robotics. 
 
-## Experience 
-
-### Robotics For Space Exploration (RSX)
-
-#### Arm Control Software Lead | September 2022 - Present
-
-#### Arm Team Member | May 2022 - August 2022
-
-### MIE243 Pick and Place Machine Project
-
-### APS112 Handless Garbage Opener Project
+## Skills
+**CAD:** SOLIDWORKS, Fusion360
+<br>
+**Analysis:** ANSYS Workbench, MATLAB, Minitab, Office Suite
+<br>
+**Software Languages:** Python, C/C++, GDScript, C#, Java, Lua
+<br>
+**Version Control:** Git
+<br>
+**Shells:** Bash, Fish, Zsh
+<br>
+**Text Editors:** Vim, NeoVim, LunarVim, Nano, VSCode, VSCodium
+<br>
+**Version Control:** Git
+<br>
+**Operating Systems:** Linux, Windows, MacOS
+<br>
+**Other Computer:** ROS, Godot, NumPy, Arduino
+<br>
+**Machining:** Lathe, Milling Machine, Drill Press
 
 ## Certifications
 
@@ -28,13 +35,30 @@ I'm currently in my third year and expecting to graduate in 2026 because of the 
 ID: 
 
 ### Basic Maching 
-I received basic machine shope training (lathe, milling machine, and drill press) from George Brown College.
+I received basic machine shop training (lathe, milling machine, and drill press) from George Brown College.
+
+# Experience
+
+## Robotics For Space Exploration (RSX)
+
+### Arm Control Software Lead | September 2022 - Present
+- Wrote Inverse Kinematic code
+
+### Arm Team Member | May 2022 - August 2022
+- Soldered pins to arduino's
+
+## MIE243 Pick and Place Machine Project 
+### September 2022 - December 2022
+
+- researched and designed SMT compatiable nozzle pick and place machine
+
+## APS112 Handless Garbage Opener Project | January 2022 - April 2022
+
+- Sold final design to client for $2010.0 USD
 
 # Projects
 
 ## CAD (Computer Aided Design)
-
-### Pick and Place Machine
 
 ### RSX Arm URDF
 
@@ -44,13 +68,19 @@ I received basic machine shope training (lathe, milling machine, and drill press
 
 ### [rsx-rover](https://github.com/rsx-utoronto/rsx-rover) ROS Package
 
-As a member of RSX I have contributed greatly to the software on the rover. Specifically, I developed a ros node that performs analytic inverse kinematics on a 6 degree of freedom arm and integrated the arm visualization system into RViz. The arm visualization shows both the targeted arm position and the position the real arm currently is in. Some other stuff I've worked on or learned are simulation the arm in gazebo, depth cameras, PID control, and CAN bus.
+As a member of RSX I have contributed greatly to the software on the rover. Specifically, I developed a ros node that performs analytic inverse kinematics on a 6 degree of freedom arm and integrated the arm visualization system into RViz. The arm visualization shows both the targeted arm position and the position the real arm currently is in. Some other stuff I've worked on or learned are simulation of the arm in gazebo, depth cameras, PID control, and CAN bus.
 
 Future projects for the arm involve autonomously controlling it using path planning algorithms and sensing the environment using computer vision.
 
 
-### Generic Gun Shooter
+### [Generic Gun Shooter](https://battlemonk345.itch.io/generic-gun-shooter)
 
-### Slide of Dice
+Generic Gun Shooter was a submission to the 2023 GMTK game jam that me and a friend developed in Godot. The theme of the jam was "Rolls Reversed" which we interpreted as swapping the rolls of bullet and gun because it's kind of funny. I worked on some art assets and created a Finite State Machine to control the enemy soldiers.
 
-### GDE Behavior Tree
+### [Slide of Dice](https://battlemonk345.itch.io/slide-of-dice)
+
+This was my first ever submission to a game jam (the 2022 GMTK game jam to be specific) which I worked on with a friend. The theme of the jam was "Roll of a Dice" which we implemented as solving a platforming problem by rolling dice to act as platforms to reach the end of the level. I worked on the art assets and code of the game.
+
+### Godot Behavior Tree
+
+This project is currently work in progress. I am developing a behavior tree plugin for godot using GDExtension - a tool that let's you write plugins for godot using C++.
