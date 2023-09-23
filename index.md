@@ -4,30 +4,31 @@ Hey there! My name is Parm and I'm working towards earning a Mechanical Engineer
 
 ## Education
 
-### [**BASc. in Mechanical Engineering**](https://www.mie.utoronto.ca/programs/undergraduate/mechanical-engineering/) | University of Toronto | 2021 - Present
+### [**BASc. in Mechanical Engineering**](https://www.mie.utoronto.ca/programs/undergraduate/mechanical-engineering/) | University of Toronto 
+#### 2021 - Present
 
 I'm currently in my third year and expecting to graduate in 2026 because of the PEY program. I have chosen the Bioengineering and Mechatronics streams and I plan to pursue minors in Bioengineering and Robotics. 
 
 ## Skills
-**CAD:** SOLIDWORKS, Fusion360
+**CAD:** SOLIDWORKS and Fusion360
 <br>
-**Analysis:** ANSYS Workbench, MATLAB, Minitab, Office Suite
+**Analysis/Simulation:** ANSYS Workbench, SuperSpice, Gazebo, and Minitab
 <br>
-**Software Languages:** Python, C/C++, GDScript, C#, Java, Lua
+**Programming:** Python, C/C++, GDScript, Matlab, C#, Java, and Lua
 <br>
-**Version Control:** Git
-<br>
-**Shells:** Bash, Fish, Zsh
-<br>
-**Text Editors:** Vim, NeoVim, LunarVim, Nano, VSCode, VSCodium
+**Office:** Microsoft Office, LibreOffice
 <br>
 **Version Control:** Git
 <br>
-**Operating Systems:** Linux, Windows, MacOS
+**Shells:** Bash, Fish, and Zsh
 <br>
-**Other Computer:** ROS, Godot, NumPy, Arduino
+**Text Editors:** Vim, NeoVim, LunarVim, Nano, VSCode, and VSCodium
 <br>
-**Machining:** Lathe, Milling Machine, Drill Press
+**Operating Systems:** Linux, Windows, and MacOS
+<br>
+**Other Computer:** ROS, Godot, NumPy, and Arduino
+<br>
+**Machining:** Lathe, Mill, and Drill Press
 
 ## Certifications
 
@@ -50,11 +51,15 @@ I received basic machine shop training (lathe, milling machine, and drill press)
 ## MIE243 Pick and Place Machine Project 
 ### September 2022 - December 2022
 
-- researched and designed SMT compatiable nozzle pick and place machine
+- Documentd discussion topics and results for later use — notes are frequently referred to by team during brainstorming session
+- Researched and designed SMT compatiable nozzle tips for pick and place machine 
+- Constructed CAD models for interchangeable nozzle tip and nozzle rotation control stepper motor and adapter
+- Particiapted in candidate process and final design selection to create a design that best meets the engineering specification
+- Presented candidate and final designs with team mates during project check-ins to demonstrate that the team was on the right track
 
 ## APS112 Handless Garbage Opener Project | January 2022 - April 2022
 
-- Sold final design to client for $2010.0 USD
+- Sold final design to client for $2010.00 USD
 
 # Projects
 
