@@ -23,6 +23,8 @@ I received basic machine shop training (lathe, milling machine, and drill press)
 <br>
 **Programming:** Python, C/C++, GDScript, Matlab, C#, Java, and Lua
 <br>
+**GIS:** ArcGIS
+<br>
 **Office:** Microsoft Office, LibreOffice, Latex, and Adobe Acrobat
 <br>
 **Version Control:** Git
@@ -47,7 +49,7 @@ I received basic machine shop training (lathe, milling machine, and drill press)
 ## Robotics For Space Exploration (RSX)
 
 ### Arm Control Software Lead | September 2022 - Present
-<video src="videos/Ik_features.mp4" controls="controls" muted="muted" style="max-height:640px;" width="480"> 
+<video src="videos/Ik_features.mp4" controls="controls" muted="muted" style="max-height:640px;" width="580"> 
 </video>
 
 - Developed ROS nodes for analytic inverse kinematics of a 6 degree of freedom arm and arm
@@ -89,11 +91,13 @@ visualization
 ## CAD (Computer Aided Design)
 
 ### RSX Arm URDF
+<img src="images/2023_arm_urdf.png" height="500"></img>
 
-Worked on simplified end effector model to facilitate smooth visualization of 2023 arm.
+Worked on simplified end effector portion of model to facilitate smooth visualization of 2023 arm.
 
 ### Gearbox 
-![Gear Box CAD](images/gear_box.png)
+<img src="images/gear_box.png" height="400"></img>
+
 Gearbox CAD made for MIE243 assignment.
 
 ## Software
