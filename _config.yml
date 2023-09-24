@@ -20,6 +20,11 @@ description: >
   <br>
   <ul>
     <li><a href="parm345.github.io">About Me</a></li>
+    <ul>
+      <li><a href="parm345.github.io#education">Education</a></li>
+      <li><a href="parm345.github.io#skills">Skills</a></li>
+      <li><a href="parm345.github.io#certifications">Certifications</a></li>
+    </ul>
     <li><a href="parm345.github.io#experience">Experience</a></li>
     <li><a href="parm345.github.io#projects">Projects</a></li>
     <ul>
