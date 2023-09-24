@@ -43,7 +43,10 @@ I received basic machine shop training (lathe, milling machine, and drill press)
 ## Robotics For Space Exploration (RSX)
 
 ### Arm Control Software Lead | September 2022 - Present
-![IK Features](videos/Ik_features.mp4)
+<video src="videos/Ik_features.mp4" data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
+
+
 - Wrote Inverse Kinematic code
 
 ### Arm Team Member | May 2022 - August 2022
