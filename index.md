@@ -33,7 +33,7 @@ I'm currently in my third year and expecting to graduate in 2026 because of the 
 ## Certifications
 
 ### SOLIDWORKS Associate in Mechanical Design
-ID: 
+**ID:** C-NBG6RTS4QA
 
 ### Basic Maching 
 I received basic machine shop training (lathe, milling machine, and drill press) from George Brown College.
@@ -43,6 +43,7 @@ I received basic machine shop training (lathe, milling machine, and drill press)
 ## Robotics For Space Exploration (RSX)
 
 ### Arm Control Software Lead | September 2022 - Present
+![IK Features](videos/Ik_features.mp4)
 - Wrote Inverse Kinematic code
 
 ### Arm Team Member | May 2022 - August 2022
