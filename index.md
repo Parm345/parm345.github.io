@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! My name is Parm and I'm working towards earning a Mechanical Engineering degree. I'm a Linux and FOSS enthusiast who likes tinkering around with computers. [Pop!_OS](https://pop.system76.com/) is distro I have been daily driving for about 5 years and I can recommend it to anyone who wants a stable desktop Linux experience. I'm also a enthusiast of many other things as well (Physics, Math, Biology, History, and Geography to name a few) but they're not as easy to talk about digitally like computers are. I would like to make some sort of simulator (simplified) before I finish undergrad to test my understanding of the material I haved learned and dive into computer graphics. 
+Hey there! My name is Parm and I'm working towards earning a Mechanical Engineering degree. I'm a Linux and FOSS enthusiast who likes tinkering around with computers. [Pop!_OS](https://pop.system76.com/) is distro I have been daily driving for about 5 years and I can recommend it to anyone who wants a stable desktop Linux experience. I'm also a enthusiast of many other things as well (Physics, Math, Biology, History, and Geography to name a few) but they're not as easy to talk about digitally like computers are. I would like to make some sort of simulator (simplified) before I finish undergrad to test my understanding of the material I haved learned and to dive into computer graphics. 
 
 This website exists to act as both my portfolio and resume. Feel free to contact me with any method scattered across this page.
 
@@ -91,12 +91,12 @@ visualization
 ## CAD (Computer Aided Design)
 
 ### RSX Arm URDF
-<img src="images/2023_arm_urdf.png" height="500"></img>
+<img src="images/2023_arm_urdf.png" height="500">
 
 Worked on simplified end effector portion of model to facilitate smooth visualization of 2023 arm.
 
 ### Gearbox 
-<img src="images/gear_box.png" height="400"></img>
+<img src="images/gear_box.png" height="400">
 
 Gearbox CAD made for MIE243 assignment.
 

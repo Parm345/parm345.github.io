@@ -16,3 +16,16 @@ description: >
   <a href="https://battlemonk345.itch.io/"> <img src="https://img.shields.io/badge/Itch.io-blue?logo=itch.io"> </a>
   <a href="https://github.com/Parm345"> <img src="https://img.shields.io/badge/GitHub-blue?logo=GitHub"> </a>
   
+  <br>
+  <br>
+  <ul>
+    <li><a href="parm345.github.io">About Me</a></li>
+    <li><a href="parm345.github.io#experience">Experience</a></li>
+    <li><a href="parm345.github.io#projects">Projects</a></li>
+    <ul>
+      <li><a href="parm345.github.io#projects">CAD</a></li>
+      <li><a href="parm345.github.io#software">Software</a></li>
+    </ul>
+  </ul>
+
+  
